@@ -1,0 +1,22 @@
+@font-face {
+  font-family: Gilroy-Medium;
+  src: url("./assets/fonts/Gilroy-Medium.ttf");
+}
+
+@font-face {
+  font-family: Gilroy-Bold;
+  src: url("./assets/fonts/Gilroy-Bold.otf");
+}
+
+body {
+  margin: 0;
+  font-family: "Gilroy-Medium", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.audio-footer-wave {
+  background-image: url("./assets/icons/wave.svg");
+}

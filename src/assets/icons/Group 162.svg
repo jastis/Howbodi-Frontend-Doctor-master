@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="22" viewBox="0 0 24 22">
+  <g id="Group_162" data-name="Group 162" transform="translate(-47 -412)">
+    <g id="Rectangle_1547" data-name="Rectangle 1547" transform="translate(54 412)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="9" height="9" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="8" height="8" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_1548" data-name="Rectangle 1548" transform="translate(47 425)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="9" height="9" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="8" height="8" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_1549" data-name="Rectangle 1549" transform="translate(62 425)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="9" height="9" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="8" height="8" rx="0.5" fill="none"/>
+    </g>
+    <line id="Line_45" data-name="Line 45" y2="1.599" transform="translate(58.586 420.901)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_837" data-name="Path 837" d="M15.728,16.652V17a1.852,1.852,0,0,1-1.656,2H1.656A1.852,1.852,0,0,1,0,17v-.348" transform="translate(66.728 441.916) rotate(180)" fill="none" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>

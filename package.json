@@ -1,0 +1,71 @@
+{
+  "name": "howbody-doctors-portal",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@chakra-ui/react": "^1.6.10",
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "@reduxjs/toolkit": "^1.6.2",
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "@videosdk.live/react-sdk": "^0.1.50",
+    "axios": "^0.24.0",
+    "chart.js": "^3.6.2",
+    "chartjs-plugin-datalabels": "^2.0.0",
+    "date-fns": "^2.27.0",
+    "dayjs": "^1.11.0",
+    "framer-motion": "^4.1.17",
+    "jwt-decode": "^3.1.2",
+    "lodash.debounce": "^4.0.8",
+    "peerjs": "^1.4.6",
+    "react": "^17.0.2",
+    "react-calendar-datetime-picker": "^1.6.3",
+    "react-chartjs-2": "^4.0.0",
+    "react-countdown": "^2.3.2",
+    "react-date-range": "^1.4.0",
+    "react-day-picker": "^7.4.10",
+    "react-dom": "^17.0.2",
+    "react-horizontal-scrolling-menu": "^3.2.0",
+    "react-icons": "^4.3.1",
+    "react-packed-grid": "^2.1.0",
+    "react-player": "^2.10.1",
+    "react-rating-stars-component": "^2.2.0",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "^5.0.0",
+    "react-slick": "^0.28.1",
+    "react-wavify": "^1.5.7",
+    "simple-peer": "^9.11.1",
+    "socket.io-client": "^4.5.0",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "react-error-overlay": "^6.0.9"
+  }
+}

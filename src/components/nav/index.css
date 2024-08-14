@@ -1,0 +1,16 @@
+.navigation-inner {
+  background: #fff;
+  border-radius: 3px;
+  color: #a08ca8;
+  font-weight: bold;
+  position: fixed;
+  width: 100%;
+  left: 0;
+  right: 20;
+  z-index: 10;
+  /* margin-left: 20px; */
+}
+
+.toggle-side-bar {
+  align-self: center;
+}

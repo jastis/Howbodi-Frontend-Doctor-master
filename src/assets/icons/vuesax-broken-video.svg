@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40.925" height="40.925" viewBox="0 0 40.925 40.925">
+  <g id="vuesax_broken_video" data-name="vuesax/broken/video" transform="translate(-88 -252)">
+    <g id="video" transform="translate(88 252)">
+      <path id="Vector" d="M0,7.179C0,1.79,1.79,0,7.179,0H17.956c5.388,0,7.179,1.79,7.179,7.179V21.537c0,5.388-1.79,7.179-7.179,7.179H7.179C1.79,28.716,0,25.135,0,21.537V14.562" transform="translate(3.41 6.105)" fill="none" stroke="#f8fbfe" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-2" data-name="Vector" d="M4.74,18.189,0,14.863V4.1L4.74.778C7.06-.841,8.969.148,8.969,3V15.989C8.969,18.837,7.06,19.826,4.74,18.189Z" transform="translate(28.545 10.97)" fill="none" stroke="#f8fbfe" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-3" data-name="Vector" d="M5.116,2.558A2.558,2.558,0,1,0,2.558,5.116" transform="translate(17.052 13.642)" fill="none" stroke="#f8fbfe" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H40.925V40.925H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

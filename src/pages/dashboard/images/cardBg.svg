@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="562" height="251" viewBox="0 0 562 251">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1820" data-name="Rectangle 1820" width="562" height="251" rx="12" transform="translate(271 105)" fill="#f6f4f9"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_37" data-name="Mask Group 37" transform="translate(-271 -105)" opacity="0.5" clip-path="url(#clip-path)">
+    <g id="Group_9462" data-name="Group 9462" transform="translate(259.194 545.722) rotate(-60)">
+      <circle id="Ellipse_134" data-name="Ellipse 134" cx="169.198" cy="169.198" r="169.198" transform="translate(199 247.86)" fill="#8c78ab"/>
+      <circle id="Ellipse_135" data-name="Ellipse 135" cx="169.198" cy="169.198" r="169.198" transform="translate(199 176)" fill="#8c78ab" opacity="0.49" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <circle id="Ellipse_136" data-name="Ellipse 136" cx="169.198" cy="169.198" r="169.198" transform="translate(307.443 212.583)" fill="#8c78ab" style="mix-blend-mode: screen;isolation: isolate"/>
+    </g>
+    <g id="Group_9463" data-name="Group 9463" transform="translate(768.65 -117.723) rotate(126)" opacity="0.45">
+      <circle id="Ellipse_134-2" data-name="Ellipse 134" cx="169.198" cy="169.198" r="169.198" transform="translate(199 247.86)" fill="#8c78ab"/>
+      <circle id="Ellipse_135-2" data-name="Ellipse 135" cx="169.198" cy="169.198" r="169.198" transform="translate(199 176)" fill="#8c78ab" opacity="0.49" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <circle id="Ellipse_136-2" data-name="Ellipse 136" cx="169.198" cy="169.198" r="169.198" transform="translate(307.443 212.583)" fill="#8c78ab" style="mix-blend-mode: screen;isolation: isolate"/>
+    </g>
+  </g>
+</svg>
